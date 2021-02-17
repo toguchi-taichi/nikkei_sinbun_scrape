@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "obtained-nikkei-newspaper",
+  "private_key_id": "0eaefcf15f0b6fc80ff201552e74a083b7855ca5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDTSuz0qjyusYSD\nwyJCsY6Gi9fDFS1+c6w7hUOVqnTwmhYNua8j6T7NghXvffrlNm+hsNvM/YN+H41/\nR0EN0jsuASqwI6/q9ZXppVKIIVKVfSsOyG9cRlhhTTGOX0IRdydNcOldhwO85N0n\nhK2PdW0vLnCq1wxN3THUm9lUrLNtkExu5hJWt6w64dN5VGDCxMZ4Rch3/W3XdXvA\nBlEQv3PpIhhj0Lf36X8I02Gy4gGaCmz1McKxz71/t5+iHJ5dRq4yzVTBH85/8Qos\nqoPb0DkJjk017Mf+ooGFuYqddrgZaLj96Fsb522oUUerfs0RXB6DeIvNhHEDNogm\ndyWDgrk3AgMBAAECggEAFvgzt0tUandQ3RQXAuITiOvl6kbAmdkQVa4gkUIlEUzm\n7doMQJ6oHaYxJUZwQn++9fhohKngpBLhCn+gAlUi6tbkoZ5Xjvbgs7Qtuy/ILwka\n57IBbSoWjIlcREp1v7lQ0/nc3LaDQQMuSZACYDCXTIRDakcThtlvg9nnb+2QWe4d\n199ERVxTy9S+JnjVSGY3n6dhh16Bfwmg0SeDTa6so0QD0al7AwvuFFTfRDg54hYF\npUaxaU3cMSpVlpsYkr2AkCQqZYfcaTpTbOadr1RQdMoxyeX0xQFNfB2o6tvGVKvm\nqrlg3J3Pzq0e61prjZezCscke+GbOsudAmyv/WHQhQKBgQDo8z+y+iZ1gePsPhM1\npEHSNagClDytqmyiqr/FSkuTT+Lpl8Cx9gNuGzdqB26ZMNE7Rt0WCry62YtVPpMg\nkMi/BEYswaoA1/HW7SlQ2+YQT7S9R8Fza+NheM2MudYLl/5ygowS2FXwvUJAolYu\nIqbgGUaubXm+WeldWWQ5oLeCOwKBgQDoMxSgMmpB6OyVo6yv07NM37+PkaVyarCj\nqNZ+E/WisHi5tIi7X/1Yg5MbSxk2xvlsfdPwp5p+TzKkOMn3LyQ34r0JEjCLvDNH\nU3tJBzV/u39QuNY8jckK+qUhyPDi0bcxvpH/gEmpdO8GuzWPUcOvC6sJhGbup2cU\n2FTlc5cZNQKBgGSVs+mKDdUrUskNPKoq1Kj5tiP28gRi1Cmg5NFBdUSUd/w5JGEz\nQuPmKJVFxEGtTIr13DzKQhfEG1+hd1HWcnfYVpy4urlGhQwyt2ZMrRhZ8kbQlv1J\nlpLd4JNlIsE6zgmPyP/SHbmnXtYdwmyFVdzpzRU//BNvK069bINdnB9FAoGADsG4\nTNoHYLrx1iy5u87jdT4/CVvDPPtE0JHZV9fi43z9nye3DNlz2105SyHBr3aDwX5Z\nqtCsA9z6pe8p/riTP638P4hVZ3wFckH+8swvfTeoRrQIgX6tSTJWrkf77x5O2y12\nT9uSUt+olS/unnYezpAaRZeRhxdCeNOqyY5ICwUCgYAmYAboIe9AjyRNU7unAo34\nw2E9RbAWIcW2C5XoGg3jo/187NqnbhS3k6Ri+zcSQP5+a9xeaLgXtuN9xHyDy86D\nBT9hgvLr5LCrx8agiZUjxOsUqN1qGaemmDD5fxSeIlMNfenoiV9qfaLHWzfMS61o\nEANgQnL+JrgsDfpRvMFmTA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "taichan@obtained-nikkei-newspaper.iam.gserviceaccount.com",
+  "client_id": "117292939382205324527",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taichan%40obtained-nikkei-newspaper.iam.gserviceaccount.com"
+}
